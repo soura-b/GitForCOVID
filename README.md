@@ -38,7 +38,7 @@ Issue numbers are unique, can be used as patient IDs. All edits to issues can be
 5. Issue Comment 4 > Medication plan
 6. Later issue comment > notes from care providers 
 
-GitHub allows us to add (comments using templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates). This feature can be used to ensure that users are prompted with enter appropriate data.
+GitHub allows us to add [comments using templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates). This feature can be used to ensure that users are prompted with enter appropriate data.
 
 
 ## Assignment > Users (Care Providers)
