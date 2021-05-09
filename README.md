@@ -7,8 +7,10 @@ Can we use GitHub to maintain patient records in a hospital? Here is a possible 
 
 
 # Motivation
-With second wave of COVID burning through India, many organization are responding by setting by hospitals. I learnt about one such organization, Doctors for You (https://doctorsforyou.org/), which has - as on May 09 2021 - set up 16 COVID hospitals.
+With second wave of COVID burning through India, many organization are responding by setting by hospitals. I learnt about one such organization, [Doctors for You](https://doctorsforyou.org/), which has - as on May 09 2021 - set up 16 COVID hospitals, and plans to double in 2 weeks. While they hasted to deploy people and resources, they also need agile, robust and cost-effective ways to organize information.
 
+
+# Need
 From a leader in this organization, I found out that these hospitals require the following:
 1. Supply chain management - for drugs
 2. Personnel management - for doctors, nurses and paramedics
