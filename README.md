@@ -38,6 +38,9 @@ Issue numbers are unique, can be used as patient IDs. All edits to issues can be
 5. Issue Comment 4 > Medication plan
 6. Later issue comment > notes from care providers 
 
+GitHub allows us to add (comments using templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates). This feature can be used to ensure that users are prompted with enter appropriate data.
+
+
 ## Assignment > Users (Care Providers)
 1. Issues can be assigned to users (more on user management later). In this case, users = care providers. 
 2. Issues can be assigned to multiple users at a time. GitHub allows up to 10 simultaneous assignees, which is sufficient to cover 3-shift operations with both medical and nursing staff.
@@ -65,11 +68,10 @@ Issue numbers are unique, can be used as patient IDs. All edits to issues can be
 
 
 # Example
-[WORK IN PROGRESS]
 1. Sample hospital with 10 beds; 5 in a male ward (with green labels), and 5 in a female ward (with blue labels).
 2. 2 sample patient records
-    1. Open record for a male patient, https://github.com/soura-b/GitForCOVID/issues/1
-    2. Closed record for a female patient, https://github.com/soura-b/GitForCOVID/issues/2
+    1. [Open record for a male patient](https://github.com/soura-b/GitForCOVID/issues/1), assigned to a bed + user.
+    2. [Closed record for a female patient](https://github.com/soura-b/GitForCOVID/issues/2), who has been discharged.
 
 A variety of filters are available on the [issues page](https://github.com/soura-b/GitForCOVID/issues). Here is one snapshot. 
 
@@ -87,5 +89,9 @@ A variety of filters are available on the [issues page](https://github.com/soura
 2. Can be a good interim solution until a "regular" hospital management system is deployed
 
 
-# About Me
+# Misc
+## Concept Contributors
+- [Sagar](https://github.com/sagar15795), a gifted Android developer and all-round technology enthusiast.
+
+## About Me
 I run a medical technology design & development firm, Lattice Innovations (www.thelattice.in). I have spent the last 15 years in healthcare - mostly in medical devices and software, but also with experience in running hospitals in rural/ peri-urban West Bengal. 
