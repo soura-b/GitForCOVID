@@ -28,7 +28,7 @@ Other features of the GitHub platform that are useful in this scenario are - org
 If you prefer, you can jump straight to examples by clicking here [INSERT URL TO SAMPLE ISSUE].
 
 
-# Stucture
+# Structure
 ## Issue Content > Patient Records
 Issue numbers are unique, can be used as patient IDs. All edits to issues can be tracked. 
 1. Issue Title > Patient Name, age/ gender
