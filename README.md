@@ -72,7 +72,9 @@ Issue numbers are unique, can be used as patient IDs. All edits to issues can be
     2. Closed record for a female patient, https://github.com/soura-b/GitForCOVID/issues/2
 
 A variety of filters are available on the [issues page](https://github.com/soura-b/GitForCOVID/issues). Here is one snapshot. 
-![image](https://user-images.githubusercontent.com/20471068/117576095-24c6ee80-b102-11eb-95d1-3b1bb90dcf0a.png)
+
+![image](https://user-images.githubusercontent.com/20471068/117576392-758b1700-b103-11eb-8a2e-9fadfa252981.png)
+
 
 # Limitations
 1. Checking for open beds is difficult
@@ -86,4 +88,4 @@ A variety of filters are available on the [issues page](https://github.com/soura
 
 
 # About Me
-I run a MedTech design firm, Lattice Innovations (www.thelattice.in).  
+I run a medical technology design & development firm, Lattice Innovations (www.thelattice.in). I have spent the last 15 years in healthcare - mostly in medical devices and software, but also with experience in running hospitals in rural/ peri-urban West Bengal. 
