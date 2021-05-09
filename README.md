@@ -30,7 +30,7 @@ If you prefer, you can jump straight to examples by clicking here [INSERT URL TO
 
 # Stucture
 ## Issue Content > Patient Records
-Issue numbers are unique, can be used as patient IDs
+Issue numbers are unique, can be used as patient IDs. All edits to issues can be tracked. 
 1. Issue Title > Patient Name, age/ gender
 2. Issue Comment 1 > DoB, Emergency contact Mobile # & Address
 3. Issue Comment 2 > Date of Admission, Chief Complaint
@@ -67,21 +67,23 @@ Issue numbers are unique, can be used as patient IDs
 # Example
 [WORK IN PROGRESS]
 1. Sample hospital with 10 beds; 5 in a male ward (with green labels), and 5 in a female ward (with blue labels).
-2. 3 sample patient records
+2. 2 sample patient records
     1. Open record for a male patient, https://github.com/soura-b/GitForCOVID/issues/1
-    2. Closed record for a male patient, https://github.com/soura-b/GitForCOVID/issues/2
-    3. dd
-3. sss
+    2. Closed record for a female patient, https://github.com/soura-b/GitForCOVID/issues/2
+
+A variety of filters are available on the [issues page](https://github.com/soura-b/GitForCOVID/issues). Here is one snapshot. 
+![image](https://user-images.githubusercontent.com/20471068/117576095-24c6ee80-b102-11eb-95d1-3b1bb90dcf0a.png)
 
 # Limitations
-[WORK IN PROGRESS]
+1. Checking for open beds is difficult
+2. Medication cannot be pulled from a standardized list
+3. Cannot set mandatory data fields - issues are free-text by design
 
 
 # Benefits
-[WORK IN PROGRESS]
+1. Highly flexible, robust, and ready for use
+2. Can be a good interim solution until a "regular" hospital management system is deployed
 
-# Conclusion
-[WORK IN PROGRESS]
 
 # About Me
-[WORK IN PROGRESS]
+I run a MedTech design firm, Lattice Innovations (www.thelattice.in).  
