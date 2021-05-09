@@ -30,11 +30,13 @@ If you prefer, you can jump straight to examples by clicking here [INSERT URL TO
 
 # Stucture
 ## Issue Content > Patient Records
-1. Issue Title > Patient Name
-2. Issue Comment 1 > Gender, DoB/ Age, Emergency contact Mobile # & Address
-3. Issue Comment 2 > Date of Admission, Chief Complaint, Workup/ triage details
-4. Issue Comment 3 > Medication plan
-5. Later issue comment > notes from care providers 
+Issue numbers are unique, can be used as patient IDs
+1. Issue Title > Patient Name, age/ gender
+2. Issue Comment 1 > DoB, Emergency contact Mobile # & Address
+3. Issue Comment 2 > Date of Admission, Chief Complaint
+4. Issue Comment 3 > Workup/ triage details
+5. Issue Comment 4 > Medication plan
+6. Later issue comment > notes from care providers 
 
 ## Assignment > Users (Care Providers)
 1. Issues can be assigned to users (more on user management later). In this case, users = care providers. 
@@ -66,8 +68,8 @@ If you prefer, you can jump straight to examples by clicking here [INSERT URL TO
 [WORK IN PROGRESS]
 1. Sample hospital with 10 beds; 5 in a male ward (with green labels), and 5 in a female ward (with blue labels).
 2. 3 sample patient records
-    1. Open record for male patient
-    2. dd
+    1. Open record for a male patient, https://github.com/soura-b/GitForCOVID/issues/1
+    2. Closed record for a male patient, https://github.com/soura-b/GitForCOVID/issues/2
     3. dd
 3. sss
 
