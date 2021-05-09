@@ -50,11 +50,34 @@ If you prefer, you can jump straight to examples by clicking here [INSERT URL TO
 3. Users can also comment on closed issues - in case they want to add details post-discharge.
 4. Once an issue is closed, it should be unassigned and untagged.
 
+## Multi-Location setup > Repos
+1. GitHub organizes information in repos (code repositories)
+2. One organization can have multiple repos, and individual repos can be set to public or priate access.
+3. Each repo can map to a hospital location.   
 
-## Example
+## Access Control > GitHub roles
+1. GitHub offers 3 primary types of roles for organization accoutns - owners, members, and collaborations. More details [here](https://docs.github.com/en/organizations/managing-peoples-access-to-your-organization-with-roles/permission-levels-for-an-organization).
+2. Hospital admins > Owners, Care providers > Members, Short-term specialists > Collaborators.
+
+
+# Example
 [WORK IN PROGRESS]
-1. Sample hospital with 10 beds
-  1. 5 in a male ward (green), and 5 in a female ward (blue).
-2. aa
+1. Sample hospital with 10 beds; 5 in a male ward (with green labels), and 5 in a female ward (with blue labels).
+2. 3 sample patient records
+    1. Open record for male patient
+    2. dd
+    3. dd
+3. sss
+
+# Limitations
+[WORK IN PROGRESS]
 
 
+# Benefits
+[WORK IN PROGRESS]
+
+# Conclusion
+[WORK IN PROGRESS]
+
+# About Me
+[WORK IN PROGRESS]
